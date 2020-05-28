@@ -19,4 +19,4 @@ Summary: Built and trained a deep NN to classify traffic signs, using TensorFlow
 ### [P4 - Behavioral Cloning](./P4%20-%20BehaviorCloning)
 Summary: Learnt how to use Keras to build a DNN to take user given training data and transform it into a self-driving car. Ran the model and simulation environement to obtain these results.
 <br> Keywords: Deep Learning, Keras, Convolutional Neural Networks
-<br>![Behavioral Cloning Demo](./P2%20-%20BehaviorCloning/demo.gif)
+<br>![Behavioral Cloning Demo](./P4%20-%20BehaviorCloning/demo.gif)
