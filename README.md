@@ -10,6 +10,7 @@ Summary:
 ### P2 - Advanced Lane Finding
 Summary: 
 <br> Keywords: Computer Vision
+<br>![Advanced Lane Finding Demo](./P2%20-%20AdvancedLaneLines/output_images/demo2.gif)
 
 ### P3 - Behavioral Cloning
 Summary: 
