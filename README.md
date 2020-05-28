@@ -5,7 +5,7 @@ Coding Cool Projects from [Udacity Self-Driving Car Engineer Nanodegree](https:/
 ### [P1 - Detecting Lane Lines](https://github.com/KishoreMayank/SelfDrivingCarND/tree/master/P1%20-%20LaneLines)
 Summary: 
 <br> Keywords: Computer Vision
-<br>![Detecting Lane Lines Demo](https://github.com/KishoreMayank/SelfDrivingCarND/tree/master/P1%20-%20LaneLines/test_videos_output/demo.gif)
+<br>![Detecting Lane Lines Demo](./P1%20-%20LaneLines/test_videos_output/demo.gif)
 
 ### P2 - Advanced Lane Finding
 Summary: 
